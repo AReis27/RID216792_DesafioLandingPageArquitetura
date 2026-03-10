@@ -39,4 +39,4 @@ https://architecture-landing-page-dnc.netlify.app/
 - Planilha de leads (SheetMonkey)
 https://docs.google.com/spreadsheets/d/1OC513PJZsQJ4xL-tyYXVub9ARdmw7VRRWa9W9uUyfdA/edit?gid=0#gid=0
 - Repositório do projeto
-[https://github.com/areis27/RIDXXXX_Desafio01](https://github.com/AReis27/RID216792_DesafioLandingPageArquitetura.git)
+https://github.com/AReis27/RID216792_DesafioLandingPageArquitetura.git
