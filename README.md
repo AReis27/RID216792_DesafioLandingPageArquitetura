@@ -35,7 +35,7 @@ Integração com planilha via SheetMonkey
 - Links do projeto
 
 - Site hospedado
-[https://seu-site.netlify.app](https://architecture-landing-page-dnc.netlify.app/)
+https://architecture-landing-page-dnc.netlify.app/
 - Planilha de leads (SheetMonkey)
 https://docs.google.com/spreadsheets/d/1OC513PJZsQJ4xL-tyYXVub9ARdmw7VRRWa9W9uUyfdA/edit?gid=0#gid=0
 - Repositório do projeto
